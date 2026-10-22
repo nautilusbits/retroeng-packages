@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RetroEng.Native</id>
+    <version>0.33.1</version>
+    <authors>Marek Draskaba (nautilusbits)</authors>
+    <license type="file">LICENSE-RetroEng.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>PACKAGE-README.md</readme>
+    <description>RetroEng's native libraries: SDL3 with the Direct3D 12 descriptor-heap fix (win-x64).</description>
+    <copyright>Copyright (c) Marek Draskaba (nautilusbits). All rights reserved.</copyright>
+    <tags>game-engine retro sdl3 sdl-gpu gamedev</tags>
+  </metadata>
+</package>

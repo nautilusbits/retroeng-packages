@@ -1,0 +1,31 @@
+RetroEng Non-Commercial Binary Licence
+
+Copyright (c) Marek Draskaba (nautilusbits). All rights reserved.
+
+"The Software" means the RetroEng engine in binary form: the RetroEng.*
+libraries, their NuGet packages and the native binaries shipped in them.
+The source code is not part of this licence.
+
+1. Grant. You may, free of charge, download, install and use the Software,
+   and redistribute it unmodified as part of a game or other application
+   that depends on it, provided that the use and the redistribution are
+   non-commercial.
+2. Non-commercial means: no sale, rental, subscription, paid access, paid
+   downloads, in-application purchases or advertising revenue connected
+   with the application or the Software. Commercial use requires the
+   prior written permission of the copyright holder.
+3. Conditions. Each redistribution must include this licence text and
+   THIRD-PARTY-NOTICES.txt. You may not modify, decompile, disassemble or
+   reverse engineer the Software, except as far as applicable law expressly
+   permits despite this restriction. You may not redistribute the Software
+   on its own or present it as your own.
+4. The source code of an application using the Software may be published
+   under any licence; that licence does not extend to the Software.
+5. Third-party components shipped with the Software keep their own
+   licences; see THIRD-PARTY-NOTICES.txt.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
