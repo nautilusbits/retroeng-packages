@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RetroEng.Render</id>
+    <version>0.39.1</version>
+    <authors>Marek Draskaba (nautilusbits)</authors>
+    <license type="file">LICENSE-RetroEng.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>PACKAGE-README.md</readme>
+    <description>RetroEng renderer on SDL_GPU: frame packets, materials, lights, shaders.</description>
+    <copyright>Copyright (c) Marek Draskaba (nautilusbits). All rights reserved.</copyright>
+    <tags>game-engine retro sdl3 sdl-gpu gamedev</tags>
+    <dependencies>
+      <group targetFramework="net10.0">
+        <dependency id="RetroEng.Platform" version="0.39.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
