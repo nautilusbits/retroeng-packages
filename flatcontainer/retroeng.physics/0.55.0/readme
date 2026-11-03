@@ -1,0 +1,23 @@
+# RetroEng
+
+A C# engine for retro 3D games on SDL3 and SDL_GPU (.NET 10): rendering
+in an original palette look and an enhanced lit look, platform and input,
+audio, collision, networking and an editor core.
+
+| Package | Contents |
+|---|---|
+| RetroEng.Core | jobs, content, diagnostics, images, models, fixed loop |
+| RetroEng.Platform | window, input, gamepads, dialogs, downloads (SDL3) |
+| RetroEng.Render | SDL_GPU renderer: frame packets, materials, lights, shaders |
+| RetroEng.Audio | SDL3 device, mixer, spatial sound |
+| RetroEng.Physics | triangle grids, heightfields, sphere sweeps and rays |
+| RetroEng.Net | client-server sessions over LiteNetLib |
+| RetroEng.Editor | Dear ImGui host, picking, gizmos, undo |
+| RetroEng.Native | SDL3 for win-x64 with a Direct3D 12 descriptor-heap fix |
+
+## Licence
+
+Closed source. Free for non-commercial use and unmodified redistribution
+inside non-commercial applications; commercial use needs written
+permission. See LICENSE-RetroEng.txt in the package. Third-party
+components keep their own licences (THIRD-PARTY-NOTICES.txt).
